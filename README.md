@@ -1,1 +1,1 @@
-# Word-Guess-aAme
+# Word-Guess-Game
